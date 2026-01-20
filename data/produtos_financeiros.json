@@ -1,0 +1,106 @@
+[
+  {
+    "nome": "Tesouro Selic",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "100% da Selic",
+    "aporte_minimo": 30.00,
+    "indicado_para": "Reserva de emergência e iniciantes"
+  },
+  {
+    "nome": "CDB Liquidez Diária",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "102% do CDI",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Quem busca segurança com rendimento diário"
+  },
+  {
+    "nome": "LCI/LCA",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "95% do CDI",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Quem pode esperar 90 dias (isento de IR)"
+  },
+  {
+    "nome": "Tesouro IPCA+",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "IPCA + juros",
+    "aporte_minimo": 30.00,
+    "indicado_para": "Proteção contra inflação no longo prazo"
+  },
+  {
+    "nome": "CDB Prefixado",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "Taxa fixa anual",
+    "aporte_minimo": 500.00,
+    "indicado_para": "Quem acredita em queda de juros"
+  },
+  {
+    "nome": "Debêntures",
+    "categoria": "renda_fixa",
+    "risco": "medio",
+    "rentabilidade": "CDI + prêmio",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Investidores que aceitam mais risco por maior retorno"
+  },
+  {
+    "nome": "Fundo Multimercado",
+    "categoria": "fundo",
+    "risco": "medio",
+    "rentabilidade": "CDI + 2%",
+    "aporte_minimo": 500.00,
+    "indicado_para": "Perfil moderado que busca diversificação"
+  },
+  {
+    "nome": "Fundo de Ações",
+    "categoria": "fundo",
+    "risco": "alto",
+    "rentabilidade": "Variável",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Perfil arrojado com foco no longo prazo"
+  },
+  {
+    "nome": "ETF de Renda Variável",
+    "categoria": "renda_variavel",
+    "risco": "alto",
+    "rentabilidade": "Variável conforme índice",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Diversificação em ações com baixo custo"
+  },
+  {
+    "nome": "Ações",
+    "categoria": "renda_variavel",
+    "risco": "alto",
+    "rentabilidade": "Variável",
+    "aporte_minimo": 50.00,
+    "indicado_para": "Investidores experientes e de longo prazo"
+  },
+  {
+    "nome": "FII - Fundo Imobiliário",
+    "categoria": "renda_variavel",
+    "risco": "medio",
+    "rentabilidade": "Dividendos mensais + valorização",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Quem busca renda passiva mensal"
+  },
+  {
+    "nome": "Previdência Privada PGBL/VGBL",
+    "categoria": "previdencia",
+    "risco": "baixo",
+    "rentabilidade": "Variável conforme fundo",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Planejamento de longo prazo e aposentadoria"
+  },
+  {
+    "nome": "Conta Remunerada",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "100% do CDI",
+    "aporte_minimo": 0.00,
+    "indicado_para": "Dinheiro parado com liquidez imediata"
+  }
+]

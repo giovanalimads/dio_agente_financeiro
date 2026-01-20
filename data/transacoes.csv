@@ -1,0 +1,64 @@
+data,descricao,categoria,valor,tipo
+2025-10-01,Salário,receita,5200.00,entrada
+2025-10-01,Aluguel,moradia,1300.00,saida
+2025-10-02,Supermercado,alimentacao,380.50,saida
+2025-10-03,Uber,transporte,42.00,saida
+2025-10-04,Padaria,alimentacao,25.00,saida
+2025-10-05,Netflix,lazer,55.90,saida
+2025-10-06,Farmácia,saude,76.40,saida
+2025-10-07,Restaurante,alimentacao,120.00,saida
+2025-10-08,Combustível,transporte,230.00,saida
+2025-10-09,Academia,saude,99.00,saida
+2025-10-10,Conta de Luz,moradia,185.60,saida
+2025-10-11,Supermercado,alimentacao,210.30,saida
+2025-10-12,Assinatura Spotify,lazer,21.90,saida
+2025-10-13,Ônibus,transporte,18.00,saida
+2025-10-14,Almoço fora,alimentacao,45.00,saida
+2025-10-15,Internet,moradia,120.00,saida
+2025-10-16,Farmácia,saude,34.90,saida
+2025-10-17,Lanche,lazer,22.00,saida
+2025-10-18,Supermercado,alimentacao,198.75,saida
+2025-10-19,Combustível,transporte,210.00,saida
+2025-10-20,Restaurante,alimentacao,135.00,saida
+2025-10-21,Conta de Água,moradia,75.40,saida
+2025-10-22,Uber,transporte,38.00,saida
+2025-10-23,Cinema,lazer,48.00,saida
+2025-10-24,Supermercado,alimentacao,260.10,saida
+2025-10-25,Farmácia,saude,62.00,saida
+2025-10-26,Delivery,lazer,89.90,saida
+2025-10-27,Ônibus,transporte,18.00,saida
+2025-10-28,Almoço fora,alimentacao,52.00,saida
+2025-10-29,Conta de Gás,moradia,95.00,saida
+2025-10-30,Lanche,alimentacao,28.50,saida
+2025-10-31,Presente,lazer,120.00,saida
+2025-11-01,Salário,receita,5200.00,entrada
+2025-11-01,Aluguel,moradia,1300.00,saida
+2025-11-02,Supermercado,alimentacao,402.80,saida
+2025-11-03,Uber,transporte,36.00,saida
+2025-11-04,Padaria,alimentacao,19.50,saida
+2025-11-05,Netflix,lazer,55.90,saida
+2025-11-06,Farmácia,saude,88.20,saida
+2025-11-07,Restaurante,alimentacao,110.00,saida
+2025-11-08,Combustível,transporte,240.00,saida
+2025-11-09,Academia,saude,99.00,saida
+2025-11-10,Conta de Luz,moradia,172.30,saida
+2025-11-11,Supermercado,alimentacao,225.40,saida
+2025-11-12,Spotify,lazer,21.90,saida
+2025-11-13,Ônibus,transporte,18.00,saida
+2025-11-14,Almoço fora,alimentacao,48.00,saida
+2025-11-15,Internet,moradia,120.00,saida
+2025-11-16,Farmácia,saude,41.60,saida
+2025-11-17,Lanche,lazer,24.00,saida
+2025-11-18,Supermercado,alimentacao,215.90,saida
+2025-11-19,Combustível,transporte,225.00,saida
+2025-11-20,Restaurante,alimentacao,140.00,saida
+2025-11-21,Conta de Água,moradia,78.20,saida
+2025-11-22,Uber,transporte,40.00,saida
+2025-11-23,Cinema,lazer,52.00,saida
+2025-11-24,Supermercado,alimentacao,270.00,saida
+2025-11-25,Farmácia,saude,69.90,saida
+2025-11-26,Delivery,lazer,92.00,saida
+2025-11-27,Ônibus,transporte,18.00,saida
+2025-11-28,Almoço fora,alimentacao,54.00,saida
+2025-11-29,Conta de Gás,moradia,98.00,saida
+2025-11-30,Lanche,alimentacao,30.00,saida
