@@ -52,14 +52,12 @@ Iyo
 
 ```mermaid
 flowchart TD
-    A[Evento Financeiro<br/>Novo gasto ou aumento de despesa] --> B[Análise do Contexto<br/>Comparação com histórico<br/>Avaliação de impacto]
-    B --> C{Existe risco ou oportunidade real?}
-    C -- Não --> D[Silêncio<br/>Nenhuma ação]
-    C -- Sim --> E[Mensagem do Tostão<br/>Empática e baseada em dados]
-    E --> F[Resposta do Cliente<br/>Interage / Ignora / Pede ajuda]
-    F --> G[Ação do Tostão<br/>Explicação simples<br/>Sugestão prática]
-    G --> H[Aprendizado<br/>Ajuste de tom e frequência]
-    H --> B
+A[Usuário] --> B[Streamlit "(Interface Visual)" ]
+B --> C[LLM]
+C --> D[Base de conhecimento]
+D --> C
+C --> E[Validação]
+E --> F[Resposta]
 
 ```
 
