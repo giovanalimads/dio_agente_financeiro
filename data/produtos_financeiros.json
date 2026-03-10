@@ -48,12 +48,12 @@
     "indicado_para": "Investidores que aceitam mais risco por maior retorno"
   },
   {
-    "nome": "Fundo Multimercado",
+    "nome": "Fundo Imobiliário (FII)",
     "categoria": "fundo",
     "risco": "medio",
-    "rentabilidade": "CDI + 2%",
-    "aporte_minimo": 500.00,
-    "indicado_para": "Perfil moderado que busca diversificação"
+    "rentabilidade": "Dividend Yield (DY) costuma ficar entre 6% de 12% ao ano",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Perfil moderado que busca diversificação e renda recorrente mensal"
   },
   {
     "nome": "Fundo de Ações",
