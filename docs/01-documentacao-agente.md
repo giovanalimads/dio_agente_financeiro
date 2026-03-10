@@ -52,13 +52,12 @@ Iyo
 
 ```mermaid
 flowchart TD
-A[Usuário] --> B[Streamlit "(Interface Visual)" ]
+A[Usuário] --> B[Streamlit Interface]
 B --> C[LLM]
-C --> D[Base de conhecimento]
+C --> D[Busca na Base de Conhecimento]
 D --> C
 C --> E[Validação]
-E --> F[Resposta]
-
+E --> F[Resposta ao Usuário]
 ```
 
 ### Componentes
@@ -75,10 +74,10 @@ E --> F[Resposta]
 
 ### Estratégias Adotadas
 
-- [] só usa dados fornecidos no contexto 
-- [] quando não sabe, admite e redireciona
-- [] não recomendo investimentos específicos
-- [] não faz recomendações de investimentos sem perfil do cliente
+- [ ] só usa dados fornecidos no contexto 
+- [ ] quando não sabe, admite e redireciona
+- [ ] não recomendo investimentos específicos
+- [ ] não faz recomendações de investimentos sem perfil do cliente
 
 ### Limitações Declaradas
 > O que o agente NÃO faz? 
